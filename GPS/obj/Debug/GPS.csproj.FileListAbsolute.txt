@@ -1,0 +1,15 @@
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\bin\Debug\GPS.exe.config
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\bin\Debug\GPS.exe
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\bin\Debug\GPS.pdb
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\GPS.csprojAssemblyReference.cache
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\MainWindow.g.cs
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\App.g.cs
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\GPS_MarkupCompile.cache
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\GPS_MarkupCompile.lref
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\MainWindow.baml
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\GPS.g.resources
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\GPS.Properties.Resources.resources
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\GPS.csproj.GenerateResource.cache
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\GPS.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\GPS.exe
+C:\Users\lab\Desktop\GPS_09_12\GPS\GPS\obj\Debug\GPS.pdb
